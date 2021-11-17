@@ -23,12 +23,14 @@ This repository contains a Django and React ecommerce project. Among other funct
 
 ```json
 virtualenv env
-./env/Scripts/activate
+env\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
 ```
 
 ## Frontend development workflow
+
+
 
 ```json
 npm i
